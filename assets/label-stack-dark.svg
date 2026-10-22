@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="img" aria-label="02  /  STACK">
+  <text x="0" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#9A9389">02  /  STACK</text>
+  <rect x="0" y="39" width="0" height="1" fill="#5E5851"><animate attributeName="width" from="0" to="1200" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/></rect>
+</svg>
