@@ -56,7 +56,7 @@
 <p>
   <a href="https://www.linkedin.com/in/titu-jeshurun">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://titujeshurun-portfolio.vercel.app">Portfolio</a>
+  <a href="https://titujeshurun.me">Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/TituJesh?tab=repositories">Repositories</a>
 </p>
